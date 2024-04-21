@@ -11,7 +11,7 @@ export const headerData = {
       href: '#',
     },
   ],
-  actions: [{ text: 'Daftar', href: 'https://github.com/onwidget/astrowind' }],
+  actions: [{ text: 'Daftar', href: 'https://wa.me/6285824813582' }],
 };
 
 export const footerData = {
